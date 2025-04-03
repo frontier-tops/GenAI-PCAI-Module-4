@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+langchain-nvidia-ai-endpoints
+langchain-weaviate
+pypdf
